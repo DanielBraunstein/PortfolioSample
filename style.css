@@ -1,0 +1,139 @@
+/**{
+	margin: ;
+	padding: ;
+}
+*/
+#header_left{
+ width: 46.5%;
+ display: inline-block;
+ background-color: white;
+ font-size: 200%;
+ padding-left: 3%;
+ margin:2% 0%;
+ vertical-align: top;
+}
+
+#header_right{
+ width: 46.5%;
+ display: inline-block;
+ background-color: white;
+ font-size: 150%;
+ text-align: right;
+ padding-right: 3%; 
+ margin:2% 0%;
+ vertical-align: top;
+}
+
+#mainBody{
+ width: 100%;
+ display: block;
+ background-color: #634e58;
+/* height: 900px;*/
+ padding: 30px;
+}
+
+.profilePic{
+ width: 400px;
+ display: inline-block;
+ vertical-align: top;
+ border-style: solid;
+ border-color: #c0c0c0;
+ margin-right: 20px;
+ margin-left: 20px;
+}
+
+#about_parent{
+	display: inline-block;
+	max-width: 53%;
+	height: 270px;
+}
+
+.topicTitle{
+	background-color: #898794;
+	color: white;
+	padding: 10px;
+	font-weight: bold;
+	font-style: sans;
+}
+.aboutBox{
+	margin-top: 25px;
+	height: 25px;
+}
+.content1{
+	background-color: #e7dee7;
+	padding: 12px;
+	word-wrap: break-word;
+	height: 200px;
+}
+#row2{
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.column{
+	width: 26%;
+	display: inline-block;
+	margin-left: 25px;
+	margin-right: 25px;
+	vertical-align: top;
+}
+.column_image{
+	margin-bottom: -5px;
+	width: 100%;
+}
+.content2{
+	height: 125px;
+	background-color: #e7dee7;
+	padding: 10px;
+	word-wrap: break-word;
+}
+.techbox{
+	margin-top: 25px;
+	height: 15px;
+}
+
+.content2{
+	height: 150px;
+	background-color: #e7dee7;
+	padding: 10px;
+	word-wrap: break-word;
+}
+
+.techIcon{
+	height: 40px;
+	margin-left: 14px;
+	margin-top: 10px;
+	display: inline-block;
+}
+
+.button_parent{
+	width: 100%;
+	background-color: #e7dee7;
+	text-align: center;
+}
+.button{
+	background-color: #407d61;
+	margin-left: 35%;
+	margin-right: 35%;
+	width: 30%;
+	height: 20px;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
+	border-radius: 5px;
+	color: white;
+}
+
+.footer{
+	margin-top: 5px;
+	width: 100%;
+	text-align: center;
+}
+.socialIcon{
+	width: 20px;
+}
+
+/*colors
+bg: d6d1b1;
+pink: fc6471;
+blue: 77b6ea;
